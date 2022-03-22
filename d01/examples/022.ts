@@ -1,16 +1,11 @@
-enum CellStatus {
-  UnFlagged,
-  Flagged
-}
-
 interface Cell {
-  status: CellStatus
+  isFlagged(): boolean
 }
 
 const getFlaggedCells = (): Array<Cell> => {
   const flaggedCells: Array<Cell> = []
   this.gameBoard.forEach((cell: Cell) => {
-    if (cell.status === CellStatus.Flagged)
+    if (cell.isFlagged)
       flaggedCells.push(cell)
   })
   return flaggedCells
