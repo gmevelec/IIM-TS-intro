@@ -1,0 +1,9 @@
+.bash_history
+.cache/
+.npm/
+.sudo_as_admin_successful
+.vagrant/
+.vscode/
+.yarnrc
+VagrantFile
+node_modules/
