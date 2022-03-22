@@ -1,5 +1,5 @@
 import IDocument from "./IDocument"
-import Facture from "./Facture"
+import Facture from "../Facture"
 import Devis from "./Devis"
 import Autre from "./Autre"
 

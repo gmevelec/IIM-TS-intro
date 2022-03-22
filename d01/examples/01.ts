@@ -1,0 +1,1 @@
+let d: number // elapsed time in day
