@@ -8,3 +8,4 @@
 .yarnrc
 VagrantFile
 node_modules/
+**/coverage/
