@@ -1,0 +1,23 @@
+2 équipes
+
+Une entité meurt si 0HP ou moins
+
+Une entité perd les hp en fonction de l'attaque de son opposant
+
+Si toutes les entités d'une équipe meurent, alors l'autre équipe gagne
+
+Le choix de qui commence est aléatoire
+
+Les entités attaquent en fonction de leur vitesse
+
+Les entités peuvent avoir plusieurs attaques
+
+Systeme de bloquage
+
+Systeme de critiques
+
+Attaques de zones
+
+
+Tests
+Clean
